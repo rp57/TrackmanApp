@@ -4,9 +4,9 @@ This repository houses the code to help build a Shiny app that allows users to u
 
 Scale:
 
-0 - Lowest Possible Pitch Success Metric /n
-~0.5 - Average /n
-1 - Highest Possible Pitch Succcess Metric /n
+0 - Lowest Possible Pitch Success Metric  <br />
+~0.5 - Average  <br />
+1 - Highest Possible Pitch Succcess Metric  <br />
 
 
 Note: If your data has missing data for key pich metrics (velocity, break, etc.), those will be filtered out and affect the reliability of your results. 
