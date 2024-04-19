@@ -2,6 +2,8 @@
 
 This repository houses the code to help build a Shiny app that allows users to upload a Trackman file and outputs the results of a Machine Learning Model to quantify pitch quality and success on a 0-1 scale. 
 
+App: https://l9u3wv-rohan-patel.shinyapps.io/PredictedPitchSuccessTrackman/
+
 Scale:
 
 0 - Lowest Possible Pitch Success Metric  <br />
